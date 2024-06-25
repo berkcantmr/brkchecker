@@ -1,0 +1,8 @@
+mnemonic
+web3
+eth_account
+eth_utils
+bip32utils
+bip_utils
+requests
+colorama
